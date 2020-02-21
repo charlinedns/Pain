@@ -18,6 +18,9 @@ h1{
 h2{
     font-size: 20px;
 }
+.fuchsia{
+    color: fuchsia;
+}
 
 div{
     width: 500px;
